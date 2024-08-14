@@ -48,3 +48,4 @@ agent = Agent(
 # RE(agent.learn("qei", n=20))
 # Options for optimizer: https://github.com/NSLS-II/blop/blob/main/src/blop/bayesian/acquisition/config.yml
 # Signature: https://github.com/NSLS-II/blop/blob/76ddd5a64db4a7eddd99c5d1bd3a92823b2ccb23/src/blop/agent.py#L388
+# agent.plot_objectives() when done
